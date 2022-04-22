@@ -1,6 +1,6 @@
 ## Hi there! 🙋🏻‍♀️
 
-I'm Edith from 🇸🇬 Singapore. I'm crrently picking up Data Analytics and am using this space to document my learning. 
+I'm Edith from 🇸🇬 Singapore. I'm currently picking up Data Analytics and am using this space to document my learning. 
 
 ### ✨About me
 

@@ -13,6 +13,7 @@ I'm Edith from 🇸🇬 Singapore. I'm currently picking up Data Analytics and a
 
 - Python
 - SQL
+- Power BI
 
 <!---
 edithnghj/edithnghj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
